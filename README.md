@@ -6,6 +6,6 @@
 1 . Clone the repo locally <br>
 2 . Run docker build . -t <imagename> <br>
 3 . Run docker run -p 8080:80 <imagename> <br>
-4 . Use Postman or any suitable restclient and send get request to the url http://localhost:8080/api/<httpfunctionname> 
+4 . Use Postman or any suitable restclient and send get request to the url http://localhost:8080/api/**replacewithyourhttpfunctionname**
 
   ## Make suitable changes to the init.py and play around
