@@ -3,9 +3,9 @@
 
 ## To use the image follow steps 
 
-1 . Clone the repo locally
-2 . Run docker build . -t <imagename>
-3 . Run docker run -p 8080:80 <imagename>
-4 . Use Postman or any suitable restclient and send get request to the url http://localhost:8080/api/<httpfunctionname>
+1 . Clone the repo locally <br>
+2 . Run docker build . -t <imagename> <br>
+3 . Run docker run -p 8080:80 <imagename> <br>
+4 . Use Postman or any suitable restclient and send get request to the url http://localhost:8080/api/<httpfunctionname> 
 
   ## Make suitable changes to the init.py and play around
